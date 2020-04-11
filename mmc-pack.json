@@ -32,18 +32,6 @@
             "cachedVersion": "14.23.5.2847",
             "uid": "net.minecraftforge",
             "version": "14.23.5.2847"
-        },
-        {
-            "cachedName": "LiteLoader",
-            "cachedRequires": [
-                {
-                    "equals": "1.12.2",
-                    "uid": "net.minecraft"
-                }
-            ],
-            "cachedVersion": "1.12.2-SNAPSHOT",
-            "uid": "com.mumfrey.liteloader",
-            "version": "1.12.2-SNAPSHOT"
         }
     ],
     "formatVersion": 1
